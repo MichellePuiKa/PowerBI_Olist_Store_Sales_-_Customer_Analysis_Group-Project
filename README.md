@@ -17,9 +17,9 @@ Olist Store is the largest department store in Brazilian marketplaces. Olist con
 
 
 ## **3. Key Fingings & Recommendations**
-- Sports products are popular with Olist customers.  Expanding on this product range could prove profitable for the company
-- Issues with delivery delays can be solved by acquiring more warehouses abroad to speed up the process.  Incorrect shipments can be returned to these warehouses for replacement where necessary
-- Customer satisfaction and dissatisfaction consistently revolve around three core themes: product quality, reliability and service efficiency.  Positive reviews highlight strengths in these areas, while negative feedback points to opportunities for improvement, underscoring their critical role in shaping the overall customer experience.
+- **Sports products** are popular with Olist customers.  Expanding on this product range could prove profitable for the company
+- **Issues with delivery delays** can be solved by **acquiring more warehouses abroad** to speed up the process.  Incorrect shipments can be returned to these warehouses for replacement where necessary
+- **Customer satisfaction and dissatisfaction** consistently revolve around three core themes: **product quality, reliability and service efficiency**.  Positive reviews highlight strengths in these areas, while negative feedback points to opportunities for improvement, underscoring their critical role in shaping the overall customer experience.
 
 
 ## **4. Insights Deep Dive**
