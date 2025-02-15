@@ -24,18 +24,26 @@ Olist Store is the largest department store in Brazilian marketplaces. Olist con
 
 ## **4. Insights Deep Dive**
 ### **4.1 Sentimental Analysis**
+![Sentimental Analysis](https://github.com/MichellePuiKa/PowerBI_Olist_Store_Sales_-_Customer_Analysis_Group-Project/blob/main/Sentimental%20Analysis.PNG)
+
+![Reasons Behind Customer Satisfaction](https://github.com/MichellePuiKa/PowerBI_Olist_Store_Sales_-_Customer_Analysis_Group-Project/blob/main/Reasons%20Behind%20Customer%20Satisfaction.PNG)
+
+![Reasons Behind Customer Dissatisfaction](https://github.com/MichellePuiKa/PowerBI_Olist_Store_Sales_-_Customer_Analysis_Group-Project/blob/main/Reasons%20Behild%20Customer%20Dissatisfaction_Low%20Score.PNG)
+
 
 ### **4.2 Exploring Customer Clusters**
+![Exploring Customer Clusters](https://github.com/MichellePuiKa/PowerBI_Olist_Store_Sales_-_Customer_Analysis_Group-Project/blob/main/Exploring%20Customer%20Clusters.PNG)
+
 
 ### **4.3 Sales Predictions**
+![Sales Prediction](
+
 
 ### **4.4 Delivery Performance**
+![Delivery Performance](
 
 
-
-## **5. Recommendations**
-
-
+![Additional Insight](
 
 
 ## **💡 Connect & Feedback**
